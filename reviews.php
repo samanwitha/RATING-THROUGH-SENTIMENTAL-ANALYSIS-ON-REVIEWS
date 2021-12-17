@@ -1,7 +1,7 @@
 // Code for Reviews
 
 <?php
-include ('lib/sentiment_analyser.class.php');
+include ('sentiment_analyser.class.php');
 $sa = new SentimentAnalysis();
 $sa->initialize();
 
